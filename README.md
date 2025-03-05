@@ -1,2 +1,2 @@
-# Pandas_Data_Analysis-
-Solving real life Data Analyst projects interactively
+# Pandas Data Analysis - Solving real life Data Analyst projects interactively
+
